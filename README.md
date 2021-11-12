@@ -7,7 +7,7 @@ SETUP: https://pastebin.com/raw/j5h5wFPX
 
 VTS: https://pastebin.com/raw/7skuAuu7
 
-###Features###
+##Features##
 **Player**
 Walk speed changer
 Jump power changer
