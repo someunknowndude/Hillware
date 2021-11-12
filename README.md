@@ -7,16 +7,16 @@ SETUP: https://pastebin.com/raw/j5h5wFPX
 
 VTS: https://pastebin.com/raw/7skuAuu7
 
-##Features##
+
 **Player**
-Walk speed changer
-Jump power changer
-Gravity changer
-Infinite jump/Fly (Keybind)
-Noclip/Air walk (Keybind)
-Click TP (Keybind)
+- Walk speed changer
+- Jump power changer
+- Gravity changer
+- Infinite jump/Fly (Keybind)
+- Noclip/Air walk (Keybind)
+- Click TP (Keybind)
 **Render**
-ESP (WIP)
+- ESP (WIP)
 **Misc.**
 IP Address:
 - Display server IP + port
