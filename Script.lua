@@ -1,4 +1,4 @@
---[[//    Hillware.cc | Made by skyr3x on V3rmillion, UI library by XHeptc on V3rmillion    \\]]--
+--[[//    Hillware.cc | Creators on V3rmillion: Made by skyr3x, UI library by XHeptc, help/support by e621     \\]]--
 _yy7W5QOrCNeQ8MBH, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
