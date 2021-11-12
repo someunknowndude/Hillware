@@ -33,5 +33,7 @@ TODO:
   - [X] click tp doesnt work
   - [ ] ESP boxes dont get applied to newly spawned players
   - [ ] ESP boxes dont get destroyed properly
-- improve ESP (color selection, roundness/size modifier, etc.) NOTE! might replace with someone else's chams soon
+- improve ESP 
+  - [X] color selection (only for chams for now)
+  - [ ] roundness/size modifier
 - switch to a better ui lib (things like minimizing are buggy in current one)
