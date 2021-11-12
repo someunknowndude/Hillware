@@ -26,3 +26,8 @@ VTS: https://pastebin.com/raw/7skuAuu7
 
 I still want to update this a bit, for example fix the ESP and make it more customizable, I might also potentially add autofarms for popular games like the glass bridge
 After you installed Tampermonkey as well as the Joindata copier JavaScript get a game's join data, hop into the Roblox game and paste it in, you can run the script there already but I recommend to wait until you're fully loaded in
+
+TODO:
+- fix bugs like airjump ceasing to work
+- improve ESP (color selection, roundness/size modifier, etc.)
+- switch to a better ui lib (things like minimizing are buggy in current one)
